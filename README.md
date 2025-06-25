@@ -23,11 +23,11 @@
 ### 🧑‍💻 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abijithuk-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abijithuk)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Abijith27UK)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Abijith27UK)
 [![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%AD%90-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/abijith27uk)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Abijith27UK/)
 [![GitHub](https://img.shields.io/badge/GitHub-Abijith27UK-black?style=for-the-badge&logo=github)](https://github.com/Abijith27UK)
-
+[![Instagram](https://img.shields.io/badge/Instagram-abijith__uk27-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/abijith_uk27/)
 
 ---
 

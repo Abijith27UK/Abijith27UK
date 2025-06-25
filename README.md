@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Abijith 👋</h1>
+<h1 align="center">Hey, I'm Abijith U K👋</h1>
 <p align="center">Aspiring Quant | Full Stack Dev | Competitive Programmer | IIT Madras</p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 ### 🚀 Featured Projects
 
-- 🎯 **[BetOnIt](https://github.com/Abijith27UK/BetOnIt)** – Real-time betting platform with odds, risk-weighted returns & WebSocket updates  
+- 🎯 **[BetOnIt](https://github.com/Abijith27UK/BetOnIt)** – Real-time sports betting platform with odds, risk-weighted returns & WebSocket updates  
 - 📊 **TradeCraft (W&B Club)** – Strategy backtester with ADX, MA, CCI, Bollinger Bands using TypeScript & PostgreSQL  
 - 🧠 **Mental Health TN App** – 50+ REST APIs, RBAC, JWT auth, in production across 30+ districts  
 - 🗺️ **IITM Mobility App** – OTP-based API access + CSV ingestion for monument data with MongoDB backend  
@@ -64,7 +64,7 @@
 
 ---
 
-### 💻 GitHub Stats (Dark/Light Theme Adaptive)
+### 💻 GitHub Stats 
 
 <div align="center">
 <p align="center">

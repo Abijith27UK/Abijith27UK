@@ -13,7 +13,8 @@
 - 🌱 Currently learning: **Web Development** and **exploring AI**
 - 🚀 Passionate about: Full Stack Engineering, Competitive Programming, Stock Market and Quant
 - 📫 Reach me at: [abijith27uk@gmail.com](mailto:abijith27uk@gmail.com)
-- 📄 [View Resume](https://docs.google.com/document/d/1ymIKJlNrtwVRCUONNQnHn8umCaj-fHko5C9nGQ6nXwA/edit?usp=sharing)
+- 📄 [View Resume](https://drive.google.com/file/d/1vrztTj1gMyehM13z6hamd1NWUV_aEcSV/view?usp=sharing)
+
 
 ---
 

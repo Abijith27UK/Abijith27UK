@@ -9,7 +9,9 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 Studying B.Tech at IITM, graduating in 2027. Passionate about web dev, quant, competitive programming and AI. Aspiring to become an amazing software developer. Currently working in web development and  and will soon pursue AI.
+- 🎓 Studying B.Tech at IIT Madras, graduating in 2027
+- 🌟 Passionate about web dev, quant, competitive programming and AI
+- 💫 Aspiring to become an amazing software developer, Currently working in web development and will soon pursue AI.
 - 🌱 Currently learning: **Web Development** and **exploring AI**
 - 🚀 Passionate about: Full Stack Engineering, Competitive Programming, Stock Market and Quant
 - 📫 Reach me at: [abijith27uk@gmail.com](mailto:abijith27uk@gmail.com)

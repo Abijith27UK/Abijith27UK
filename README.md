@@ -65,10 +65,14 @@
 ### 💻 GitHub Stats (Dark/Light Theme Adaptive)
 
 <div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abijith27UK&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abijith27UK&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
-![Abijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abijith27UK&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abijith27UK&layout=compact&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abijith27UK&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abijith27UK&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
 </div>
 

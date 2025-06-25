@@ -58,10 +58,11 @@
 ### 🚀 Featured Projects
 
 - 🎯 **[BetOnIt](https://github.com/Abijith27UK/BetOnIt)** – Real-time sports betting platform with odds, risk-weighted returns & WebSocket updates  
-- 📊 **TradeCraft (W&B Club)** – Strategy backtester with ADX, MA, CCI, Bollinger Bands using TypeScript & PostgreSQL  
-- 🧠 **Mental Health TN App** – 50+ REST APIs, RBAC, JWT auth, in production across 30+ districts  
-- 🗺️ **IITM Mobility App** – OTP-based API access + CSV ingestion for monument data with MongoDB backend  
-- 🛩️ **Trufly Aerospace Website** – Fully responsive React + Tailwind + Chakra UI frontend, deployed on Vercel
+- 📊 **TradeCraft (W&B Club)** – Strategy backtester with stock market indicators : ADX, MA, CCI, Bollinger Bands using TypeScript & PostgreSQL  
+- 🧠 **[Mental Health TN App](https://github.com/Aadharcode/Mental-Health-TN-Gov)** – Mental health for TN Govt School psychiatrist. 50+ REST APIs, RBAC, JWT auth, in production across 30+ districts  
+- 🗺️ **[IITM Mobility App](https://github.com/Aadharcode/IIT-Madras-Mobility-App-Backend)** – OTP-based API access + CSV ingestion for monument data with MongoDB backend  
+- 🛩️ **[Trufly Aerospace Website](https://www.truflyaerospace.com/)** – Fully responsive React + Tailwind + Chakra UI frontend deployed on Vercel for the compaies digital presence
+- 👗 **[Nuza Website](https://www.nuza.in/)** - Initial version of Nuza (a fashion-focused startup) website, deployed to establish digital presence
 
 ---
 

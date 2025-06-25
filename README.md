@@ -19,13 +19,12 @@
 
 ### 🧑‍💻 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abijithuk" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" /></a>
-  <a href="https://codeforces.com/profile/Abijith27UK" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="30" /></a>
-  <a href="https://www.codechef.com/users/abijith27uk" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="30" /></a>
-  <a href="https://leetcode.com/u/Abijith27UK/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" /></a>
-  <a href="https://github.com/Abijith27UK" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abijithuk-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abijithuk)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Abijith27UK)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%AD%90-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/abijith27uk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Abijith27UK/)
+[![GitHub](https://img.shields.io/badge/GitHub-Abijith27UK-black?style=for-the-badge&logo=github)](https://github.com/Abijith27UK)
+
 
 ---
 

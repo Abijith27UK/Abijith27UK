@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Abijith U K👋</h1>
-<p align="center">Aspiring Quant | Full Stack Dev | Competitive Programmer | IIT Madras</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abijith27UK&label=Profile%20views&color=0e75b6&style=flat" alt="Abijith27UK" />
